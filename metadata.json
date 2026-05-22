@@ -1,0 +1,6 @@
+{
+  "name": "Taxtlar O'yini",
+  "description": "Game of Thrones barcha qismlari IMDb reytinglari va qisqacha mazmuni",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
